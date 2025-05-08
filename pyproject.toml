@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "kappa-1n"
 version = "0.1.0"
-description = "Partial implementation https://arxiv.org/abs/1802.05495"
+description = "Implementation https://arxiv.org/abs/1802.05495"
 authors = ["fxeqxmulfx <mikhail.boriso2014@gmail.com>"]
 license = "MIT"
 readme = "README.md"
